@@ -1,4 +1,5 @@
 *.cfg
+*.cfg.old
 *.aux
 *.log
 *.pdf
