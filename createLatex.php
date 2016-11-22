@@ -246,7 +246,7 @@ BIC: ' . $persDataArr['BIC'] . '\\\\
 %---------------------------------------------------------------------------
 \opening{Sehr geehrte'. $anrede .' '. $destinationLastName . ',}
 
-Bitte überweisen Sie den folgenden Rechnungsbeitrag innerhalb von 14 Tagen auf das unten angegebene Konto.
+Bitte überweisen Sie den folgenden Rechnungsbetrag innerhalb von 14 Tagen auf das unten angegebene Konto.
 
 \vspace{5pt}
 \begin{tabularx}{\textwidth}{lcXrr}
